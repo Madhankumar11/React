@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Madhankumar11/React.git/static/css/main.9797e452.css",
+    "main.js": "/Madhankumar11/React.git/static/js/main.adb2a65b.js",
+    "static/media/3.webp": "/Madhankumar11/React.git/static/media/3.3ad23a1eadebce4c2385.webp",
+    "index.html": "/Madhankumar11/React.git/index.html",
+    "main.9797e452.css.map": "/Madhankumar11/React.git/static/css/main.9797e452.css.map",
+    "main.adb2a65b.js.map": "/Madhankumar11/React.git/static/js/main.adb2a65b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9797e452.css",
+    "static/js/main.adb2a65b.js"
+  ]
+}
